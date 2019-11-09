@@ -1,4 +1,4 @@
-package todasporumaOcorrecia.com.Todas.Por.uma.Ocorrencia;
+package todasporumaOcorrencia.com.Todas.Por.uma.Ocorrencia;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
